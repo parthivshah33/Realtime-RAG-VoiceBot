@@ -1,0 +1,17 @@
+python-dotenv==1.0.0
+langchain_google_genai==1.0.1
+langchain
+langchain-core
+pypdf
+pyaudio
+langchain-pinecone
+
+NLTK
+deepgram-sdk
+sounddevice
+
+pygame
+gtts
+
+openpyxl
+pandas
